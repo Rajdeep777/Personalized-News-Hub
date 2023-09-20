@@ -2,7 +2,7 @@
 
 > **The Personalized News Platform is a web application that provides users with news articles tailored to their preferences. It uses a public news API to fetch the latest news and applies a recommendation algorithm to filter and display articles based on user preferences. Users can create accounts, set their preferences, and receive a personalized news feed.**
 
-![image](https://github.com/Rajdeep777/Personalized-News-Hub/assets/74129008/06aaf2da-3f03-47d0-a359-fd18d731c701)
+![image](https://github.com/Rajdeep777/Personalized-News-Hub/assets/74129008/ac86d6ee-abf8-44e4-8067-d86e323e763c)
 
 ## Features
 
